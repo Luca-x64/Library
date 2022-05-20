@@ -2,26 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4cebc689-8607-46eb-923f-09013d353b5b" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/out/production/Library-management-system/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Library-management-system/.idea/libraries/GestioneBiblioteca_definitivo.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Library-management-system/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Library-management-system/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Library-management-system/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Library-management-system/LICENSE" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Library-management-system/Library-management-system.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Library-management-system/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Library-management-system/inputdata/account.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Library-management-system/inputdata/autori.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Library-management-system/inputdata/editori.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Library-management-system/inputdata/film.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Library-management-system/inputdata/libri.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Library-management-system/inputdata/musica.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Library-management-system/inputdata/personale.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Library-management-system/inputdata/provincia.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Library-management-system/inputdata/sedi.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Library-management-system/inputdata/utenti.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Library/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Library/.idea/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Library/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Library/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,6 +17,7 @@
     <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="29RhjvRU3ERMof2ZyDv2LMMwUe3" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -42,7 +25,11 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true"
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "C:/Users/Luca/IdeaProjects/Tris",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0"
   }
 }]]></component>
   <component name="RunManager">
